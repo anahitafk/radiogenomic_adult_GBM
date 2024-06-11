@@ -13,3 +13,5 @@ These models are generated for the following genes or pathways:
 - MAPK pathway
 - P53 pathway
 
+The code "Predict_GBM_Mutation.m" should be used for prediction of the presence or absence of mutations in any of the genes or pathways mentioned above.
+
